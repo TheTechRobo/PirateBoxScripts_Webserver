@@ -13,7 +13,7 @@ PirateBox is a collection of scripts / programs that allows you to use your wire
 as a local network to share files and chat anonymously. For more information please visit
 http://daviddarts.com/
 
-##### Info
+## Info
 Packages contains only scripts based PirateBox scripts with running lighttpd webserver.
 
 PirateBox scripts can:
