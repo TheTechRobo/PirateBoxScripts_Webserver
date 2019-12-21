@@ -42,11 +42,11 @@ Installation-HowTo und current Download-Link: http://piratebox.aod-rpg.de/dokuwi
 Is supported by mkPirateBox > v0.5 for OpenWRT Systems https://github.com/MaStr/mkPirateBox
 and by PirateBox Manager https://github.com/TerrorByte/PirateBox-Manager
 
-#### Installation
+### Installation
 PirateBox should be in most common repositories soon, but in the mean time you can use this method:
 
 
-##### For alpha testing
+#### For alpha testing
 
 Download the package:
 https://github.com/MaStr/PirateBoxScripts_Webserver/archive/development.zip
